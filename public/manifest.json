@@ -1,11 +1,11 @@
 {
-  "name": "SheWin",
-  "short_name": "SheWin",
+  "name": "SwasthSakhi",
+  "short_name": "SwasthSakhi",
   "theme_color": "#E52F8A",
   "background_color": "#fff",
   "display": "standalone",
   "scope": "/",
-  "start_url": "https://shewin.netlify.app",
+  "start_url": "https://SwasthSakhi.netlify.app",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",

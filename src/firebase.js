@@ -13,9 +13,9 @@ import "firebase/compat/storage";
 // Your web app's Firebase configuration
 const firebaseConfig = {
 	apiKey: "AIzaSyC5uvEVrMvaEZzcO7QrV8u8oJZQXbgF6gs",
-	authDomain: "shewin-40205.firebaseapp.com",
-	projectId: "shewin-40205",
-	storageBucket: "shewin-40205.appspot.com",
+	authDomain: "SwasthSakhi-40205.firebaseapp.com",
+	projectId: "SwasthSakhi-40205",
+	storageBucket: "SwasthSakhi-40205.appspot.com",
 	messagingSenderId: "604340215105",
 	appId: "1:604340215105:web:082a7c4ea18084346515c0",
 };

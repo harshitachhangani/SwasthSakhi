@@ -3,9 +3,9 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "scope": "/",
-    "start_url": "https://shewin.netlify.app",
-    "name": "SheWin",
-    "short_name": "Shewin",
+    "start_url": "https://SwasthSakhi.netlify.app",
+    "name": "SwasthSakhi",
+    "short_name": "SwasthSakhi",
     "icons": [
         {
             "src": "/icon-192x192.png",
