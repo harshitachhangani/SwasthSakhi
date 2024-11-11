@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"><b>SwasthSakhi</b></h1>
 
 <div align="center">
@@ -207,3 +208,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+=======
+
+>>>>>>> f676ceeeb1dcd5eb221ebc7af7d758b7cfde4f36
